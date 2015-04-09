@@ -8,4 +8,4 @@ What gets uploaded will be moderated.
 
 The project:
 
-A new, improved, high performant, scaleable, highly abailable  [null device](https://en.wikipedia.org/wiki/Null_device).
+A new, improved, high performing, scaleable, highly availiable  [null device](https://en.wikipedia.org/wiki/Null_device).
